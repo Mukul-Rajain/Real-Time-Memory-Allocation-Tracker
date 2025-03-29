@@ -1,0 +1,6 @@
+psutil - 7.0.0
+matplotlib - 3.10.1
+tkinter - 9.0.1
+random
+
+
