@@ -41,7 +41,7 @@ If you prefer to run the application directly from source, follow these steps:
 
 **Clone the Repository:**
 
-    git clone https://github.com/Priyatosh-kumar/Real-Time-Memory-Allocation-Tracker-
+    git clone https://github.com/Mukul-Rajain/Real-Time-Memory-Allocation-Tracker-
     cd Real-Time-Memory-Allocation-Tracker-
 
 **Install Dependencies:**
