@@ -48,7 +48,7 @@ If you prefer to run the application directly from source, follow these steps:
 
 Ensure you have Python 3.6 or later installed, then run:
 
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 
 **Start the Application:**
 
